@@ -14,24 +14,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '32dadf270f251658743948a1e03ec32f8523c7f5',
     'name' => 'allandev14/phptips01',
   ),
   'versions' => 
   array (
     'allandev14/phptips01' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '32dadf270f251658743948a1e03ec32f8523c7f5',
     ),
     'phpmailer/phpmailer' => 
     array (

@@ -1,3 +1,3 @@
 <?php
 
-require__DIR__."/vendor/autoload.php";
+    echo "<h1>Olá Mundo</h1>";
